@@ -38,5 +38,6 @@ Here are some ideas to get you started:
   <a href="https://www.tiktok.com/@yurizxxz?" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/YuriRFerr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <!-- Oi -->
+    ##
     ![Snake animation](https://raw.githubusercontent.com/YuriRochFerr/YuriRochFerr/6b9c58e44fbbe93e28c4317c2a71de248045943b/github-contribution-grid-snake.svg)
 </div>
