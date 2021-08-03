@@ -32,7 +32,8 @@ Here are some ideas to get you started:
    <img align="center" alt="Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">
 </div>
 <div>
-    ![Snake animation](https://github.com/YuriRochFerr/YuriRochFerr/blob/output/github-contribution-grid-snake.svg)
+  <!-- Oi -->
+    ![Snake animation](https://raw.githubusercontent.com/YuriRochFerr/YuriRochFerr/6b9c58e44fbbe93e28c4317c2a71de248045943b/github-contribution-grid-snake.svg)
 </div>
   ##
   
