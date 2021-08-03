@@ -31,7 +31,9 @@ Here are some ideas to get you started:
   <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/YuriRochFerr/YuriRochFerr/blob/main/github-original-wordmark.svg">
    <img align="center" alt="Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">
 </div>
-  
+<div>
+    ![Snake animation](https://github.com/YuriRochFerr/YuriRochFerr/blob/output/github-contribution-grid-snake.svg)
+</div>
   ##
   
   <div> 
