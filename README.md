@@ -29,9 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="vsCODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/YuriRochFerr/YuriRochFerr/blob/main/github-original-wordmark.svg">
    <img align="center" alt="Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">
-</div>
-  ##
-<div> 
+<br>
  	<a href="https://www.twitch.tv/play_mur" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">   </a>
   <a href="https://www.tiktok.com/@yurizxxz?" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-     badge&logo=tiktok&logoColor=white"target="_blank"></a>
   <a href="https://twitter.com/YuriRFerr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"target="_blank">   </a>
