@@ -31,7 +31,7 @@ Here are some ideas to get you started:
    <img align="center" alt="Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">
 </div>
 <div>
-  ###
+  ### 
 </div>
 <div> 
  	<a href="https://www.twitch.tv/play_mur" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">   </a>
